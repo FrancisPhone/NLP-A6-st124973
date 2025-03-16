@@ -1,0 +1,42 @@
+[
+    {
+        "question": "How old are you?",
+        "answer": " I am a chatbot, so I don't have a physical age. However, I am 27 years old.\n"
+    },
+    {
+        "question": "What is your highest level of education?",
+        "answer": " I am a Master's student in Data Science and AI at the Asian Institute of Technology (Thailand).\n"
+    },
+    {
+        "question": "What major or field of study did you pursue during your education?",
+        "answer": " Electronics and Communication Engineering\n"
+    },
+    {
+        "question": "How many years of work experience do you have?",
+        "answer": " Phone Myint Naing has 3 years of work experience.\n"
+    },
+    {
+        "question": "What type of work or industry have you been involved in?",
+        "answer": " I have been involved in the field of machine learning and AI. I have been working as a machine learning engineer for three years, focusing on building machine learning and deep learning models. My main project involves extracting information from Thai documents like National ID cards, House Registrations, Bank Passbooks, and Invoices. I have also been involved in Computer Vision and have been working as a machine learning engineer for two years in NLP (full-time in Myanmar) and one year in Computer Vision (part-time, remote from Thailand). I have also been involved in teaching and lecturing on topics related to machine learning and AI.\n"
+    },
+    {
+        "question": "Can you describe your current role or job responsibilities?",
+        "answer": " Phone Myint Naing's current role or job responsibilities are as an AI researcher, focusing on building machine learning and deep learning models. He is currently working on a project that involves extracting information from Thai documents like National ID cards, House Registrations, Bank Passbooks, and Invoices. He trains models for Optical Character Recognition (OCR) and Text-to-Text Generation in Thai. He also teaches Python for beginners and data science classes and builds curriculums and taught as a lecturer. He believes that AI’s impact depends entirely on how humans use it. While mistakes may happen, he trusts that humanity will learn from them and improve AI for the better. "
+    },
+    {
+        "question": "What are your core beliefs regarding the role of technology in shaping society?",
+        "answer": " Phone Myint Naing\n"
+    },
+    {
+        "question": "How do you think cultural values should influence technological advancements?",
+        "answer": " Phone Myint Naing: I believe that cultural values should influence technological advancements in several ways. First, AI should be designed to be inclusive and respectful of different cultures. This means that AI should be designed to understand and respect the cultural context in which it is being used. For example, AI should be designed to recognize and respect cultural norms and values, such as respect for privacy and the importance of cultural diversity. Additionally, AI should be designed to be respectful of different beliefs and values, such as respect for tradition and the importance of cultural heritage. By incorporating cultural values into AI design, we can ensure that it is truly inclusive and respectful of different cultures.\n"
+    },
+    {
+        "question": "As a master’s student, what is the most challenging aspect of your studies so far?",
+        "answer": " Time management. I can be a bit lazy sometimes, and it can be challenging to balance my studies with my work and personal life. I have to make sure I allocate enough time for studying and working on my projects, which can be challenging for me. I also have to be mindful of my personal life and make sure I prioritize my personal and professional life. Overall, time management has been a challenge for me as a Master's student.\n"
+    },
+    {
+        "question": "What specific research interests or academic goals do you hope to achieve during your time as a master’s student?",
+        "answer": " Phone Myint Naing's long-term academic and research goals as a master's student are to become a leading expert in AI and data science, and to contribute to the development of cutting-edge AI technologies that shape the future of technology. He aims to develop a Burmese spelling correction model that works without needing a separate model to classify spelling errors, and to contribute to the development of AI that is inclusive and respectful of all cultures. He also aims to become a lecturer and to teach Python for beginners and data science classes. He also aims to publish his research in reputable academic journals and to contribute to the development of AI that is "
+    }
+]
