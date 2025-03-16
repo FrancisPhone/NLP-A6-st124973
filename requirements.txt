@@ -1,0 +1,12 @@
+Django==4.2.7
+langchain==0.0.350
+langchain-community==0.0.4
+accelerate==0.25.0
+transformers==4.36.2
+bitsandbytes==0.45.3
+sentence-transformers==2.2.2
+InstructorEmbedding==1.0.1
+faiss-cpu==1.7.4
+pymupdf==1.23.8
+huggingface-hub==0.20.0
+protobuf
