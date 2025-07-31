@@ -1,4 +1,4 @@
-# Chatbot with RAG (Retrieval-Augmented Generation)
+# Chat-With-Francis
 
 This project implements a Retrieval-Augmented Generation (RAG) chatbot using the LangChain framework. The chatbot is designed to answer questions about the user (in this case, Phone Myint Naing) by retrieving information from relevant documents and generating responses using a language model.
 
